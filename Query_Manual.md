@@ -1,4 +1,4 @@
-### Consultas SQL para o banco de dados "banco_merged"
+# Consultas SQL para o banco de dados "banco_merged"
 
 ### Listar todos os atletas:
 `sql
